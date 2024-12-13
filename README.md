@@ -19,10 +19,7 @@
 #### Minhas Contribuições
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=frederico-enzo&theme=radical" alt="GitHub Streak" />
-</div>
-
-### 🌍 Vamos nos Conectar
-<div align="center">
+  <div align="center">
   <a href="https://www.linkedin.com/in/frederico-enzo">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -33,7 +30,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio" />
   </a>
 </div>
-
+</div>
 ---
 
 <div align="center">
