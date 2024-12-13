@@ -11,19 +11,6 @@
 
 ---
 
-### 🌟 Sobre Mim
-
-Olá! Eu sou o Frederico, um engenheiro de software apaixonado por tecnologia e inovação. Minha missão é criar soluções que fazem a diferença, combinando habilidades técnicas com criatividade.
-
-### 🚀 Áreas de Interesse
-- Desenvolvimento Web (Angular, Vue.js, Bootstrap)
-- Desenvolvimento Backend (Java, Spring Boot, Node.js)
-- Data Storytelling e Visualização de Dados (Matplotlib, Power BI)
-- Sistemas Embarcados (Arduino, Microcontroladores, Sensores)
-- Business Intelligence (Data Warehousing, ETL)
-
-### 📊 Estatísticas
-
 #### Linguagens e Tecnologias Utilizadas
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frederico-enzo&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
