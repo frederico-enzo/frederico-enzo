@@ -1,25 +1,33 @@
 <div align="center">
   <h1>Frederico Enzo Pinheiro Peiter</h1>
-  <p>Engenheiro de Software | Desenvolvedor Full-Stack | Data Enthusiast</p>
+  <p><strong>Engenheiro de Software</strong> | <strong>Desenvolvedor Full-Stack</strong> | <strong>Data Enthusiast</strong></p>
 </div>
 
 ---
 
 <div align="center">
+  <h2>💻 Tech Stack</h2>
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,angular,spring,vue,postgres,github,vscode" alt="Tech Stack" />
 </div>
 
 ---
 
-#### Linguagens e Tecnologias Utilizadas
 <div align="center">
+  <h2>📊 Linguagens e Tecnologias</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frederico-enzo&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
 </div>
 
-#### Minhas Contribuições
+---
+
 <div align="center">
+  <h2>🔥 Minhas Contribuições</h2>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=frederico-enzo&theme=radical" alt="GitHub Streak" />
-  <div align="center">
+</div>
+
+---
+
+<div align="center">
+  <h2>🌐 Conecte-se Comigo</h2>
   <a href="https://www.linkedin.com/in/frederico-enzo">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -30,7 +38,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio" />
   </a>
 </div>
-</div>
+
 ---
 
 <div align="center">
