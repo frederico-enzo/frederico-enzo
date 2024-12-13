@@ -1,7 +1,4 @@
-# 👋 Olá, eu sou Frederico Enzo Pinheiro Peiter!
-
-### 💻 Sobre Mim
-Sou um entusiasta da tecnologia e desenvolvedor apaixonado por resolver problemas reais por meio de software. Minha trajetória inclui estudos em Análise e Desenvolvimento de Sistemas, e atualmente estou expandindo meu conhecimento em Engenharia de Software. Tenho experiência em projetos que vão desde desenvolvimento web até sistemas embarcados e data storytelling.
+# Frederico Enzo Pinheiro Peiter!
 
 ### 🚀 Áreas de Interesse
 - Desenvolvimento Web (Angular, Vue.js, Bootstrap)
@@ -11,28 +8,11 @@ Sou um entusiasta da tecnologia e desenvolvedor apaixonado por resolver problema
 - Business Intelligence (Data Warehousing, ETL)
 
 ### 🛠️ Tecnologias e Ferramentas
-- **Linguagens:** Java, JavaScript, TypeScript, Python, C
-- **Frameworks e Bibliotecas:** Angular, Spring Boot, Hibernate, Vue.js
-- **Banco de Dados:** PostgreSQL
-- **Ferramentas:** VS Code, Tinkercad, Git/GitHub
-- **Outros:** Prototipagem Eletrônica e Modelagem 3D
-
-### 📂 Meus Projetos
-Aqui estão alguns destaques dos projetos que você pode encontrar por aqui:
-
-#### 🌟 [Sistema de Gerenciamento Hospitalar](https://github.com/frederico-enzo/hospital-management-system)
-- Desenvolvido em Java com Spring Boot, PostgreSQL e JWT para autenticação.
-- Funcionalidades incluem cadastro de pacientes, agendamentos e relatórios.
-
-#### 🌟 [Data Storytelling de Covid-19](https://github.com/frederico-enzo/covid-data-storytelling)
-- Projeto de BI analisando dados epidemiológicos e de vacinação.
-- Utilizou Python para ETL e Power BI para dashboards.
-
-#### 🌟 [Sistema de Detecção de Proximidade](https://github.com/frederico-enzo/proximity-detector)
-- Sistema embarcado utilizando Arduino, sensor ultrassônico e LED RGB.
-
-#### 🌟 [Web Components Genéricos](https://github.com/frederico-enzo/web-component-applications)
-- Desenvolvimento de componentes reutilizáveis, começando com um sistema de login.
+![Linguagens](https://img.shields.io/badge/Linguagens-Java%2C%20JavaScript%2C%20TypeScript%2C%20Python%2C%20C-blue)
+![Frameworks](https://img.shields.io/badge/Frameworks-Angular%2C%20Spring%20Boot%2C%20Hibernate%2C%20Vue.js-green)
+![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-PostgreSQL-orange)
+![Ferramentas](https://img.shields.io/badge/Ferramentas-VS%20Code%2C%20Tinkercad%2C%20Git%2FGitHub-yellow)
+![Outros](https://img.shields.io/badge/Outros-Prototipagem%20Eletr%C3%B4nica%2C%20Modelagem%203D-purple)
 
 ### 🌍 Vamos nos Conectar
 - **LinkedIn:** [Frederico Enzo](https://www.linkedin.com/in/frederico-enzo)
@@ -40,4 +20,29 @@ Aqui estão alguns destaques dos projetos que você pode encontrar por aqui:
 - **Portfólio:** [Meu Site](https://frederico-enzo-portfolio.com)
 
 ---
-Sempre aberto a colaborações e novas ideias. Vamos criar algo incrível juntos!
+
+### 📊 Gráficos de Habilidades
+
+#### Linguagens de Programação
+![Linguagens de Programação](https://skillicons.dev/icons?i=java,js,ts,python,c)
+
+#### Ferramentas e Frameworks
+![Ferramentas e Frameworks](https://skillicons.dev/icons?i=angular,spring,vue,postgres,github,vscode)
+
+#### Áreas de Interesse
+```mermaid
+graph LR
+A[Desenvolvimento Web] --> B[Angular]
+A --> C[Vue.js]
+A --> D[Bootstrap]
+E[Desenvolvimento Backend] --> F[Java]
+E --> G[Spring Boot]
+E --> H[Node.js]
+I[Data Storytelling] --> J[Matplotlib]
+I --> K[Power BI]
+L[Sistemas Embarcados] --> M[Arduino]
+L --> N[Microcontroladores]
+L --> O[Sensores]
+P[Business Intelligence] --> Q[Data Warehousing]
+P --> R[ETL]
+```
