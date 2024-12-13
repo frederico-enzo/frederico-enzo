@@ -1,4 +1,19 @@
-# Frederico Enzo Pinheiro Peiter!
+<div align="center">
+  <h1>Frederico Enzo Pinheiro Peiter</h1>
+  <p>Engenheiro de Software | Desenvolvedor Full-Stack | Data Enthusiast</p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,c,angular,spring,vue,postgres,github,vscode" alt="Tech Stack" />
+</div>
+
+---
+
+### 🌟 Sobre Mim
+
+Olá! Eu sou o Frederico, um engenheiro de software apaixonado por tecnologia e inovação. Minha missão é criar soluções que fazem a diferença, combinando habilidades técnicas com criatividade.
 
 ### 🚀 Áreas de Interesse
 - Desenvolvimento Web (Angular, Vue.js, Bootstrap)
@@ -7,25 +22,33 @@
 - Sistemas Embarcados (Arduino, Microcontroladores, Sensores)
 - Business Intelligence (Data Warehousing, ETL)
 
-### 🛠️ Tecnologias e Ferramentas
-![Linguagens](https://img.shields.io/badge/Linguagens-Java%2C%20JavaScript%2C%20TypeScript%2C%20Python%2C%20C-blue)
-![Frameworks](https://img.shields.io/badge/Frameworks-Angular%2C%20Spring%20Boot%2C%20Hibernate%2C%20Vue.js-green)
-![Banco de Dados](https://img.shields.io/badge/Banco%20de%20Dados-PostgreSQL-orange)
-![Ferramentas](https://img.shields.io/badge/Ferramentas-VS%20Code%2C%20Tinkercad%2C%20Git%2FGitHub-yellow)
-![Outros](https://img.shields.io/badge/Outros-Prototipagem%20Eletr%C3%B4nica%2C%20Modelagem%203D-purple)
+### 📊 Estatísticas
+
+#### Linguagens e Tecnologias Utilizadas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frederico-enzo&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
+</div>
+
+#### Minhas Contribuições
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=frederico-enzo&theme=radical" alt="GitHub Streak" />
+</div>
 
 ### 🌍 Vamos nos Conectar
-- **LinkedIn:** [Frederico Enzo](https://www.linkedin.com/in/frederico-enzo)
-- **E-mail:** frederico.enzo@example.com
-- **Portfólio:** [Meu Site](https://frederico-enzo-portfolio.com)
+<div align="center">
+  <a href="https://www.linkedin.com/in/frederico-enzo">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:frederico.enzo@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://frederico-enzo-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio" />
+  </a>
+</div>
 
 ---
 
-### 📊 Gráficos de Habilidades
-
-#### Linguagens de Programação
-![Linguagens de Programação](https://skillicons.dev/icons?i=java,js,ts,python,c)
-
-#### Ferramentas e Frameworks
-![Ferramentas e Frameworks](https://skillicons.dev/icons?i=angular,spring,vue,postgres,github,vscode)
-
+<div align="center">
+  <p>✨ Sempre em busca de novos desafios e aprendizado constante! ✨</p>
+</div>
