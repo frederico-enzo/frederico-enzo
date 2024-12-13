@@ -29,20 +29,3 @@
 #### Ferramentas e Frameworks
 ![Ferramentas e Frameworks](https://skillicons.dev/icons?i=angular,spring,vue,postgres,github,vscode)
 
-#### Áreas de Interesse
-```mermaid
-graph LR
-A[Desenvolvimento Web] --> B[Angular]
-A --> C[Vue.js]
-A --> D[Bootstrap]
-E[Desenvolvimento Backend] --> F[Java]
-E --> G[Spring Boot]
-E --> H[Node.js]
-I[Data Storytelling] --> J[Matplotlib]
-I --> K[Power BI]
-L[Sistemas Embarcados] --> M[Arduino]
-L --> N[Microcontroladores]
-L --> O[Sensores]
-P[Business Intelligence] --> Q[Data Warehousing]
-P --> R[ETL]
-```
