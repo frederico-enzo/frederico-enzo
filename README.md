@@ -1,5 +1,7 @@
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: center;">
+## Use To Code
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
+  <!-- Bloco da esquerda (Badges) -->
+  <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -18,7 +20,9 @@
     <img src="https://img.shields.io/badge/Python-%233B8E4F.svg?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </div>
-  <div style="display: flex; flex-direction: column; align-items: center;">
+
+  <!-- Bloco da direita (Gráfico de linguagens) -->
+  <div style="display: flex; justify-content: center; align-items: center;">
     <a href="https://github.com/frederico-enzo" style="display: inline-block;">
       <img alt="Frederico Enzo Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=frederico-enzo&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
     </a>
