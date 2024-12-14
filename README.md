@@ -10,6 +10,9 @@
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ <a href="https://github.com/frederico-enzo" style="display: inline-block;">
+    <img alt="Frederico Enzo Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=frederico-enzo&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  </a>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%23316A9C.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
@@ -22,7 +25,5 @@
   <a href="https://github.com/frederico-enzo" style="display: inline-block;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frederico-enzo&theme=radical" alt="Frederico Enzo's GitHub Contribution" />
   </a>
-  <a href="https://github.com/frederico-enzo" style="display: inline-block;">
-    <img alt="Frederico Enzo Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=frederico-enzo&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-  </a>
+ 
 </p>
