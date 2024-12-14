@@ -17,12 +17,9 @@
 ![Test](https://img.shields.io/badge/Test-%23FF7043.svg?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233B8E4F.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 <br/>
-<hr/>
-
-<p align="center">
-  <a href="https://github.com/frederico-enzo" style="display: inline-block; margin-right: 10px;">
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <a href="https://github.com/frederico-enzo" style="display: inline-block;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frederico-enzo&theme=radical" alt="Frederico Enzo's GitHub Contribution" />
   </a>
   <a href="https://github.com/frederico-enzo" style="display: inline-block;">
