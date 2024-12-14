@@ -11,7 +11,7 @@
 
 ---
 
-<div align="center">
+<div >
   <h2>📊 Linguagens e Tecnologias</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frederico-enzo&layout=compact&theme=radical" alt="Linguagens Mais Usadas" />
    <h2>🔥 Minhas Contribuições</h2>
