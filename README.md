@@ -1,6 +1,17 @@
+# Frederico Enzo
+
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+   <a href="https://github.com/frederico-enzo" style="display: inline-block;">
+      <img alt="Frederico Enzo Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=frederico-enzo&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+   </a>
+   <a href="https://github.com/frederico-enzo">
+      <img alt="Frederico Enzo GitHub Commits" src="https://github-readme-streak-stats.herokuapp.com/?user=frederico-enzo&theme=react&border_radius=10&background=0D1117&hide_border=true&fire=F85D7F&stroke=F85D7F" />
+   </a>
+</p>
+
 ## Use To Code
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 20px;">
-  <!-- Bloco da esquerda (Badges) -->
   <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
@@ -20,17 +31,4 @@
     <img src="https://img.shields.io/badge/Python-%233B8E4F.svg?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   </div>
-
-  <!-- Bloco da direita (Gráfico de linguagens) -->
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://github.com/frederico-enzo" style="display: inline-block;">
-      <img alt="Frederico Enzo Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=frederico-enzo&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
-    </a>
-  </div>
 </div>
-
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://github.com/frederico-enzo" style="display: inline-block;">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frederico-enzo&theme=radical" alt="Frederico Enzo's GitHub Contribution" />
-  </a>
-</p>
