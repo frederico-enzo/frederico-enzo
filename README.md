@@ -23,17 +23,9 @@
 
 <p align="center">
   <a href="https://github.com/frederico-enzo">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frederico-enzo&theme=radical" alt="Frederico Enzo's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=frederico-enzo&theme=radical" alt="Frederico Enzo's GitHub Contribution" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://github.com/frederico-enzo">
+    <img alt="Frederico Enzo Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=frederico-enzo&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
   </a>
 </p>
-
-<a> 
-    <a href="https://github.com/frederico-enzo"><img alt="Frederico Enzo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=frederico-enzo&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/frederico-enzo"><img alt="Frederico Enzo Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=frederico-enzo&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-
-<!--
-[![](https://visitcount.itsvg.in/api?id=frederico-enzo&label=Profile%20Views&color=11&icon=2&pretty=true)](https://visitcount.itsvg.in)-->
-[![](https://visitcount.itsvg.in/api?id=frederico-enzo&label=Profile%20Views&color=11&icon=2&pretty=true)](https://visitcount.itsvg.in)
-
